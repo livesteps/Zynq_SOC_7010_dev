@@ -1,8 +1,8 @@
 # Zynq_SOC_7010_dev
 Zynq_SOC_7010_dev
 
-<a href="https://allaboutfpga.com/product/edge-zynq-soc-fpga-development-board/">InfoPage</a>
-<a href="https://allaboutfpga.com/edge-zynq-soc-fpga-development-board-user-manual/">UserGuide</a>
+<a href="https://allaboutfpga.com/product/edge-zynq-soc-fpga-development-board">InfoPage</a>
+<a href="https://allaboutfpga.com/edge-zynq-soc-fpga-development-board-user-manual">UserGuide</a>
 <a href="https://allaboutfpga.com/wp-content/uploads/2019/12/EDGE-Zynq-soc-FPGA-Development-Board-Specification.pdf">DataSheet</a>
 
 
