@@ -1,6 +1,8 @@
 # Zynq_SOC_7010_dev
 Zynq_SOC_7010_dev
 
+<a href="https://allaboutfpga.com/wp-content/uploads/2019/12/EDGE-Zynq-soc-FPGA-Development-Board-Specification.pdf">DataSheet</a>
+
 <br>
 <br>Xilinx XC7Z010-1CLG400C (Zynq-7010) or XC7Z020-1CLG400C (Zynq-7020)
 – Integrated Artix-7 FPGA with (28K logic cells, 17,600 LUTs, 80 DSP slices, 2.1Mb Block RAM) or (85K logic cells, 15,200 LUTs, 220 DSP slices, 4.9Mb Block RAM)
