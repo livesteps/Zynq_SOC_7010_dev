@@ -1,10 +1,9 @@
 # Zynq_SOC_7010_dev
 Zynq_SOC_7010_dev
 
-<a href="https://allaboutfpga.com/product/edge-zynq-soc-fpga-development-board">InfoPage</a>
-<a href="https://allaboutfpga.com/edge-zynq-soc-fpga-development-board-user-manual">UserGuide</a>
+<a href="https://allaboutfpga.com/product/edge-zynq-soc-fpga-development-board">InfoPage</a><br>
+<a href="https://allaboutfpga.com/edge-zynq-soc-fpga-development-board-user-manual">UserGuide</a><br>
 <a href="https://allaboutfpga.com/wp-content/uploads/2019/12/EDGE-Zynq-soc-FPGA-Development-Board-Specification.pdf">DataSheet</a>
-
 
 <br>
 <br>Xilinx XC7Z010-1CLG400C (Zynq-7010) or XC7Z020-1CLG400C (Zynq-7020)
