@@ -9,6 +9,7 @@ Other refs <br>
 <a href="https://www.arm.com/resources/free-arm-cortex-m-on-fpga">ARM Cortex-M FPGA_starter</a><br>
 <a href="https://events.hackster.io/designstart">Other Refs0</a><br>
 <a href="https://hackster.wistia.com/projects/uu25og9t3h">Other Refs1</a><br>
+<a href="https://www.gowinsemi.com/en/support/video_detail/46/">Gowin</a><br>
 
 <br>Xilinx XC7Z010-1CLG400C (Zynq-7010) or XC7Z020-1CLG400C (Zynq-7020)
 – Integrated Artix-7 FPGA with (28K logic cells, 17,600 LUTs, 80 DSP slices, 2.1Mb Block RAM) or (85K logic cells, 15,200 LUTs, 220 DSP slices, 4.9Mb Block RAM)
