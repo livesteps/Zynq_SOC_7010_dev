@@ -12,13 +12,13 @@ Other refs <br>
 <a href="https://www.gowinsemi.com/en/support/video_detail/46/">Gowin</a><br>
 
 OpenHardware
-<a href="https://github.com/aolofsson/oh/tree/main"></a><br>
+<a href="https://github.com/aolofsson/oh/tree/main">OpenHardware</a><br>
 
 BSG_Basejump_STL
-<a href="https://www.bsg.ai/papers/Taylor_DAC_BaseJump_STL_2018.pdf"></a><br>
-<a href="https://docs.google.com/document/d/1xA5XUzBtz_D6aSyIBQUwFk_kSUdckrfxa2uzGjMgmCU/edit"></a><br>
-<a href="http://github.com/bespoke-silicon-group/basejump_stl"></a><br>
-<a href="https://bitbucket.org/taylor-bsg/bsg_ip_cores/src/master"></a><br>
+<a href="https://www.bsg.ai/papers/Taylor_DAC_BaseJump_STL_2018.pdf">BaseJump_STL_Paper</a><br>
+<a href="https://docs.google.com/document/d/1xA5XUzBtz_D6aSyIBQUwFk_kSUdckrfxa2uzGjMgmCU/edit">BSG Googledocs page</a><br>
+<a href="http://github.com/bespoke-silicon-group/basejump_stl">BSG_STL_Github</a><br>
+<a href="https://bitbucket.org/taylor-bsg/bsg_ip_cores/src/master">BSG_IPCores</a><br>
 
 <br>Xilinx XC7Z010-1CLG400C (Zynq-7010) or XC7Z020-1CLG400C (Zynq-7020)
 – Integrated Artix-7 FPGA with (28K logic cells, 17,600 LUTs, 80 DSP slices, 2.1Mb Block RAM) or (85K logic cells, 15,200 LUTs, 220 DSP slices, 4.9Mb Block RAM)
